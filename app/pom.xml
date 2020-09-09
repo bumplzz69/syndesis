@@ -37,7 +37,7 @@
     <syndesis.version>${project.version}</syndesis.version>
 
     <!-- Atlasmap version -->
-    <atlasmap.version>1.38.1</atlasmap.version>
+    <atlasmap.version>1.43.0</atlasmap.version>
 
     <!-- Image names -->
     <image.s2i>syndesis/syndesis-s2i:%l</image.s2i>
@@ -52,14 +52,14 @@
     <node.version>v8.11.2</node.version>
     <yarn.version>v1.2.1</yarn.version>
 
-    <hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
+    <hibernate.validator.version>6.0.19.Final</hibernate.validator.version>
 
     <jackson.version>2.9.0</jackson.version>
     <json-patch.version>1.9</json-patch.version>
     <kubernetes.client.version>3.1.4.fuse-710001</kubernetes.client.version>
 
     <spring.version>4.3.12.RELEASE</spring.version>
-    <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
+    <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
     <spring-cloud.version>Dalston.SR5</spring-cloud.version>
 
     <swagger.version>1.5.19</swagger.version>
@@ -102,7 +102,7 @@
     <maven-resolver-api.version>1.1.1</maven-resolver-api.version>
 
     <maven-common-artifact-filters.version>1.4</maven-common-artifact-filters.version>
-    <maven-shared-utils.version>3.1.0</maven-shared-utils.version>
+    <maven-shared-utils.version>3.3.3</maven-shared-utils.version>
 
     <!-- Common dependencies -->
     <assertj-core.version>3.11.1</assertj-core.version>
