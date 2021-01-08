@@ -54,7 +54,7 @@
 
     <hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
 
-    <jackson.version>2.9.0</jackson.version>
+    <jackson.version>2.10.0</jackson.version>
     <json-patch.version>1.9</json-patch.version>
     <kubernetes.client.version>3.1.4.fuse-710001</kubernetes.client.version>
 
@@ -74,7 +74,7 @@
     <errorprone.version>2.3.1</errorprone.version>
 
     <!-- Global camel version used everywhere -->
-    <camel.version>2.21.0.fuse-720029</camel.version>
+    <camel.version>3.0.0</camel.version>
 
     <dep.plugin.dependency.version>3.0.2</dep.plugin.dependency.version>
     <dep.plugin.pmd.version>3.10.0</dep.plugin.pmd.version>
@@ -1557,7 +1557,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.9.9</version>
+        <version>2.9.10.8</version>
       </dependency>
 
       <dependency>
