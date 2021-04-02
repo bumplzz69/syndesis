@@ -59,10 +59,10 @@
     <kubernetes.client.version>3.1.4.fuse-710001</kubernetes.client.version>
 
     <spring.version>4.3.12.RELEASE</spring.version>
-    <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
+    <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
     <spring-cloud.version>Dalston.SR5</spring-cloud.version>
 
-    <swagger.version>1.5.19</swagger.version>
+    <swagger.version>1.6.2</swagger.version>
 
     <activemq.version>5.15.4</activemq.version>
 
@@ -111,12 +111,12 @@
     <mailapi.version>1.4.3</mailapi.version>
     <json-schema-core.version>1.2.8</json-schema-core.version>
     <json-schema-validator.version>2.2.8</json-schema-validator.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <spotbugs.version>3.1.5</spotbugs.version>
 
     <spring-security.version>4.2.6.RELEASE</spring-security.version>
-    <resteasy.version>3.6.1.Final</resteasy.version>
-    <resteasy-spring-boot-starter.version>1.0.1.Final</resteasy-spring-boot-starter.version>
+    <resteasy.version>4.5.8.SP1</resteasy.version>
+    <resteasy-spring-boot-starter.version>3.9.0.Final</resteasy-spring-boot-starter.version>
 
     <immutables.version>2.5.6</immutables.version>
 
@@ -1557,7 +1557,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.9.9</version>
+        <version>2.9.10.8</version>
       </dependency>
 
       <dependency>
