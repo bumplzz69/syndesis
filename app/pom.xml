@@ -37,7 +37,7 @@
     <syndesis.version>${project.version}</syndesis.version>
 
     <!-- Atlasmap version -->
-    <atlasmap.version>1.38.1</atlasmap.version>
+    <atlasmap.version>2.0.6</atlasmap.version>
 
     <!-- Image names -->
     <image.s2i>syndesis/syndesis-s2i:%l</image.s2i>
@@ -59,7 +59,7 @@
     <kubernetes.client.version>3.1.4.fuse-710001</kubernetes.client.version>
 
     <spring.version>4.3.12.RELEASE</spring.version>
-    <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
+    <spring-boot.version>1.5.20.RELEASE</spring-boot.version>
     <spring-cloud.version>Dalston.SR5</spring-cloud.version>
 
     <swagger.version>1.5.19</swagger.version>
