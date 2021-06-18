@@ -37,7 +37,7 @@
     <syndesis.version>${project.version}</syndesis.version>
 
     <!-- Atlasmap version -->
-    <atlasmap.version>1.38.1</atlasmap.version>
+    <atlasmap.version>2.1.1</atlasmap.version>
 
     <!-- Image names -->
     <image.s2i>syndesis/syndesis-s2i:%l</image.s2i>
@@ -62,7 +62,7 @@
     <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
     <spring-cloud.version>Dalston.SR5</spring-cloud.version>
 
-    <swagger.version>1.5.19</swagger.version>
+    <swagger.version>1.6.2</swagger.version>
 
     <activemq.version>5.15.4</activemq.version>
 
@@ -115,7 +115,7 @@
     <spotbugs.version>3.1.5</spotbugs.version>
 
     <spring-security.version>4.2.6.RELEASE</spring-security.version>
-    <resteasy.version>3.6.1.Final</resteasy.version>
+    <resteasy.version>3.11.0.Final</resteasy.version>
     <resteasy-spring-boot-starter.version>1.0.1.Final</resteasy-spring-boot-starter.version>
 
     <immutables.version>2.5.6</immutables.version>
@@ -1015,7 +1015,7 @@
       <dependency>
         <groupId>io.fabric8</groupId>
         <artifactId>kubernetes-model</artifactId>
-        <version>2.0.10</version>
+        <version>4.10.0</version>
       </dependency>
 
       <dependency>
