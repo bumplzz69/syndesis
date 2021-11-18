@@ -62,7 +62,7 @@
     <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
     <spring-cloud.version>Dalston.SR5</spring-cloud.version>
 
-    <swagger.version>1.5.19</swagger.version>
+    <swagger.version>1.6.2</swagger.version>
 
     <activemq.version>5.15.4</activemq.version>
 
@@ -1740,7 +1740,7 @@
       <dependency>
         <groupId>io.swagger</groupId>
         <artifactId>swagger-parser</artifactId>
-        <version>1.0.34</version>
+        <version>1.0.56</version>
       </dependency>
 
       <dependency>
