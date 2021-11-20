@@ -122,7 +122,7 @@
 
     <jdbi.version>2.78</jdbi.version>
     <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.7</logback.version>
   </properties>
 
   <modules>
