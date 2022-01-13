@@ -64,7 +64,7 @@
 
     <swagger.version>1.5.19</swagger.version>
 
-    <activemq.version>5.15.4</activemq.version>
+    <activemq.version>5.15.6</activemq.version>
 
     <arquillian.version>1.4.0.Final</arquillian.version>
     <arquillian.cube.version>1.15.2</arquillian.cube.version>
@@ -116,13 +116,13 @@
 
     <spring-security.version>4.2.6.RELEASE</spring-security.version>
     <resteasy.version>3.6.1.Final</resteasy.version>
-    <resteasy-spring-boot-starter.version>1.0.1.Final</resteasy-spring-boot-starter.version>
+    <resteasy-spring-boot-starter.version>3.9.3.Final</resteasy-spring-boot-starter.version>
 
     <immutables.version>2.5.6</immutables.version>
 
     <jdbi.version>2.78</jdbi.version>
     <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.7</logback.version>
   </properties>
 
   <modules>
