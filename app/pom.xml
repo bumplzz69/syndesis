@@ -37,7 +37,7 @@
     <syndesis.version>${project.version}</syndesis.version>
 
     <!-- Atlasmap version -->
-    <atlasmap.version>1.38.1</atlasmap.version>
+    <atlasmap.version>2.3.0</atlasmap.version>
 
     <!-- Image names -->
     <image.s2i>syndesis/syndesis-s2i:%l</image.s2i>
@@ -1557,7 +1557,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.9.9</version>
+        <version>2.13.0</version>
       </dependency>
 
       <dependency>
