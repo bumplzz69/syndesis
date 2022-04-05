@@ -62,7 +62,7 @@
     <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
     <spring-cloud.version>Dalston.SR5</spring-cloud.version>
 
-    <swagger.version>1.5.19</swagger.version>
+    <swagger.version>1.6.6</swagger.version>
 
     <activemq.version>5.15.4</activemq.version>
 
