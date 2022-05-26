@@ -102,7 +102,7 @@
     <maven-resolver-api.version>1.1.1</maven-resolver-api.version>
 
     <maven-common-artifact-filters.version>1.4</maven-common-artifact-filters.version>
-    <maven-shared-utils.version>3.1.0</maven-shared-utils.version>
+    <maven-shared-utils.version>3.3.3</maven-shared-utils.version>
 
     <!-- Common dependencies -->
     <assertj-core.version>3.11.1</assertj-core.version>
