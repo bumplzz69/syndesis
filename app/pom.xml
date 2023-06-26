@@ -37,7 +37,7 @@
     <syndesis.version>${project.version}</syndesis.version>
 
     <!-- Atlasmap version -->
-    <atlasmap.version>1.38.1</atlasmap.version>
+    <atlasmap.version>1.39.4</atlasmap.version>
 
     <!-- Image names -->
     <image.s2i>syndesis/syndesis-s2i:%l</image.s2i>
@@ -931,7 +931,7 @@
                 Jurisdiction Policy Files to this
                 JVM.</message>
               <condition>javax.crypto.Cipher.getMaxAllowedKeyLength("AES")
-                > 128</condition>
+                &gt; 128</condition>
             </evaluateBeanshell>
           </rules>
         </configuration>
