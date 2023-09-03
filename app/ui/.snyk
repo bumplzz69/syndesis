@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -17,3 +17,35 @@ patch:
         patched: '2018-07-04T01:40:48.078Z'
     - karma > log4js > loggly > request > hawk > cryptiles > boom > hoek:
         patched: '2018-07-04T01:40:48.078Z'
+    - '@angular/cli > @angular-devkit/architect > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2023-09-03T20:59:11.722Z'
+        id: 'npm:hoek:20180212'
+        path: >-
+          @angular/cli > @angular-devkit/architect > @angular-devkit/core >
+          chokidar > fsevents > node-pre-gyp > hawk > hoek
+    - '@angular/cli > @angular-devkit/architect > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2023-09-03T20:59:11.722Z'
+        id: 'npm:hoek:20180212'
+        path: >-
+          @angular/cli > @angular-devkit/architect > @angular-devkit/core >
+          chokidar > fsevents > node-pre-gyp > hawk > boom > hoek
+    - '@angular/cli > @angular-devkit/architect > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2023-09-03T20:59:11.722Z'
+        id: 'npm:hoek:20180212'
+        path: >-
+          @angular/cli > @angular-devkit/architect > @angular-devkit/core >
+          chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek
+  'npm:extend:20180424':
+    - '@angular/cli > @angular-devkit/architect > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > request > extend':
+        patched: '2023-09-03T20:59:11.722Z'
+        id: 'npm:extend:20180424'
+        path: >-
+          @angular/cli > @angular-devkit/architect > @angular-devkit/core >
+          chokidar > fsevents > node-pre-gyp > request > extend
+  'npm:stringstream:20180511':
+    - '@angular/cli > @angular-devkit/architect > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > request > stringstream':
+        patched: '2023-09-03T20:59:11.722Z'
+        id: 'npm:stringstream:20180511'
+        path: >-
+          @angular/cli > @angular-devkit/architect > @angular-devkit/core >
+          chokidar > fsevents > node-pre-gyp > request > stringstream
