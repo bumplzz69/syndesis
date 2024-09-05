@@ -35,7 +35,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^6.0.3",
-    "@angular/cli": "^6.0.7",
+    "@angular/cli": "^14.2.12",
     "@angular/common": "^6.0.3",
     "@angular/compiler": "^6.0.3",
     "@angular/core": "^6.0.3",
@@ -70,7 +70,7 @@
     "ngx-chips": "^1.9.2",
     "oai-ts-commands": "^0.2.48",
     "oai-ts-core": "^0.2.26",
-    "patternfly": "3.51.2",
+    "patternfly": "3.59.4",
     "patternfly-ng": "^4.5.0",
     "pluralize": "5.0.0",
     "postinstall-postinstall": "^2.0.0",
